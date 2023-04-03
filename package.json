@@ -1,0 +1,12 @@
+{
+  "name": "Testing-Bucket-to-Express",
+  "version": "1.0.0",
+  "description": "Connecting Storage bucket into express",
+  "main": "server.js",
+  "repository": "https://github.com/Avei20/testing-cloud-to-express.git",
+  "author": "Avei20",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
